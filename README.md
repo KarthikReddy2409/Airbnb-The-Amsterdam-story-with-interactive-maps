@@ -4,4 +4,4 @@ I have done this project on google colab. The interactive graphs were working on
 
 I have uploaded the screenshots for the interactive maps.
 
-I anyone wants to view the interactive maps, please let me know. I'll send you a copy of my colab notebook.
+If anyone wants to view the interactive maps, please click on colab present in the .ipynb notebook.
